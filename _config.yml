@@ -13,35 +13,38 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jason Zutty
-subtitle: Research Engineer
-email: jasonzutty@gmail.com
-personal-email: jasonzutty@gmail.com
-work-email: jason.zutty@gtri.gatech.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  I am a Research Engineer working at Georgia Tech in the field of automated machine learning.
-  I spend most of my time developing EMADE, the Evolutionary Multi-objective Algorithm Design Engine.
-  This site covers my research work as well as some of my personal hobbies.
+title: Won Lee
+subtitle: A Neuroscientist and Hiker
+email: won.lee@columbia.edu
+personal-email: elainewonlee@gmail.com
+work-email: won.lee@columbia.edu
+description: "Data, brain, physiology, behavior, and data again"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "jasonzutty.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jasonzutty
-github_username:  jasonzutty
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+street_address: 108 Dean Keaton St. 
+city: Austin
+state: TX
+zip_code: 78712
+country: United States of America
+twitter_username: veritasluxmeaWL
+github_username:  veritas1uxmea
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 10
+# tiles-count: 4
+no_contact_form: true
 
 # social settings
 500px_url:
 facebook_url:
-github_url: https://www.github.com/jasonzutty
+github_url: https://www.github.com/veritas1uxmea
 #gitlab_url: https://gitlab.com/u/andrewbanchich
 #googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://www.instagram.com/jasonzutty
-linkedin_url: https://www.linkedin.com/in/jason-zutty-456b6413
+instagram_url: https://www.instagram.com/won_inamillion_
+linkedin_url: https://www.linkedin.com/in/wonlee-neuroscience
 #pinterest_url:
 #slack_url:
-twitter_url: https://www.twitter.com/jasonzutty
+twitter_url: https://www.twitter.com/veritasluxmeaWL
 
 # Build settings
 markdown: kramdown

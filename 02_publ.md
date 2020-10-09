@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: Research & Publication
+Description: Check out my papers and Github repos!
 nav-menu: true
 ---
 
