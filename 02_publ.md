@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Research & Publication
-Description: Check out my papers and Github repos!
-image: assets/images/diagram.png
+Description: 'Check out my papers and Github repos!'
+image: assets/images/gene_network.png
 nav-menu: true
 ---
 

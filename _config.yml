@@ -3,7 +3,7 @@ subtitle: "A Neuroscientist and Hiker"
 email: won.lee@columbia.edu
 personal-email: elainewonlee@gmail.com
 work-email: won.lee@columbia.edu
-description: "Data, brain, physiology, behavior, and data again"
+description: "Data, brain, physiology, and data again"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 street_address: "108 Dean Keaton St."
@@ -21,7 +21,7 @@ no_contact_form: true
 
 # social settings
 500px_url:
-facebook_url:
+facebook_url: 
 github_url: https://www.github.com/veritas1uxmea
 #gitlab_url: https://gitlab.com/u/andrewbanchich
 #googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
