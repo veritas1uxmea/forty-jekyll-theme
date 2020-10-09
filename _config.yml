@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Won Lee
 subtitle: A Neuroscientist and Hiker
+landing-title: 'Hi I'm Won, nice to meet you.'
 email: won.lee@columbia.edu
 personal-email: elainewonlee@gmail.com
 work-email: won.lee@columbia.edu
