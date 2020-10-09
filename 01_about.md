@@ -5,6 +5,8 @@ description: A little more about me
 nav-menu: true
 image: "assets/images/won-2.jpg"
 ---
+
+<span class="image fit"><img src="{% link assets/images/won-2.jpg %}" alt="" /></span>
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -12,7 +14,6 @@ image: "assets/images/won-2.jpg"
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<img src="assets/images/won-2.jpg" height="600px" alt="" data-position="center center" />
 			<h1>Hi I'm Won, Nice to meet you.</h1>
 		</header>
 
