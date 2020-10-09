@@ -12,7 +12,7 @@ image: "assets/images/won-2.jpg"
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<img src="assets/images/won-2.jpg" height="500px" alt="" data-position="center center" />
+			<img src="assets/images/won-2.jpg" height="600px" alt="" data-position="center center" />
 			<h1>Hi I'm Won, Nice to meet you.</h1>
 		</header>
 
@@ -33,8 +33,8 @@ I like leaving my footprints --- in National and State parks wherever I can reac
 I like sleeping --- under the roof of countless stars <br />
 I like flexing my muscles --- within the four corners of my yoga mats <br />
  <br />
-And my journey will continue. </p>
-<p><a href="assets/files/resume.pdf" class="button">Resume (PDF)</a>   <a href="assets/files/CV.pdf" class="button">CV (PDF)</a><p>
+And my journey will continue. <p/>
+<p><a href="https://www.linkedin.com/in/wonlee-neuroscience/" class="button icon fa-linkedin">LinkedIn</a>     <a href="assets/files/resume.pdf" class="button">Resume (PDF)</a>     <a href="assets/files/CV.pdf" class="button">CV (PDF)</a><p/>
 
 <div class="row">
 	<div class="6u 12u$(small)">
