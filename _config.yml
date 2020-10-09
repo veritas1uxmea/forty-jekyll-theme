@@ -1,16 +1,16 @@
-title: Won Lee
-subtitle: A Neuroscientist and Hiker
+title: "Won Lee"
+subtitle: "A Neuroscientist and Hiker"
 email: won.lee@columbia.edu
 personal-email: elainewonlee@gmail.com
 work-email: won.lee@columbia.edu
 description: "Data, brain, physiology, behavior, and data again"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-street_address: 108 Dean Keaton St. 
-city: Austin
-state: TX
+street_address: "108 Dean Keaton St."
+city: "Austin"
+state: "TX"
 zip_code: 78712
-country: United States of America
+country: "United States of America"
 twitter_username: veritasluxmeaWL
 github_username:  veritas1uxmea
 
