@@ -59,7 +59,3 @@ And my journey will continue. <p/>
 		<p>Mae-tan High School, Suwon, South Korea</p>
 	</div>
 </div>
-
-
-</section>
-</div>
