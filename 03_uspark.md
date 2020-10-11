@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Motivation</h3>
 				</header>
-				<p>I have been thinking about even more fun way to horn my skills in R and Python. And it hit me soon enough, my passion in extracting insights from data and admiring nature came together. It will be a long-term project, and here is how I get started.</p>
+				<p>I have been thinking about even more fun way to horn my skills in R and Python. And soon enough, my passion in extracting insights from data and admiring nature came together. It will be a long-term project, and here is how I get started.</p>
 				<ul class="actions">
 					<li><a href="2020-10-11-uspark_motivation.html" class="button">To the post</a></li>
 				</ul>

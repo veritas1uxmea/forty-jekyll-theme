@@ -33,7 +33,7 @@ nav-menu: true
 				<p>A quick look of acquiring and processing Tag-based RNA seq data: Tag-based RNA seq is cost-effective approach specifically designed to measure abundances of polyadenylated transcripts yielding highly reliable data for differential gene expression analysis in well annotated genomes. Here I provide step-by-step instruction and bash script to process tag-based RNA seq data. </p>
 				<ul class="actions">
 					<li><a href="https://github.com/veritas1uxmea/tagseq_primer_labmeeting" class="button icon fa-github">Github</a>
-					<a href="https://docs.google.com/presentation/d/13_lDt8nFBPRnDraOwHgMlGglk29mqXOuYTILQvhqVzg/edit?usp=sharing" class="button icon fa-presentation">Presentation</a></li>
+					<a href="https://docs.google.com/presentation/d/13_lDt8nFBPRnDraOwHgMlGglk29mqXOuYTILQvhqVzg/edit?usp=sharing" class="button icon fa-object-group">Presentation</a></li>
 				</ul>
 			</div>
 		</div>
