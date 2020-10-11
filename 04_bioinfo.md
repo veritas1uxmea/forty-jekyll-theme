@@ -10,14 +10,14 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<!-- <section id="one">
 	<div class="inner">
 		<header class="major">
 			<h2>Sed amet aliquam</h2>
 		</header>
 		<p>Nullam et orci eu lorem</p>
 	</div>
-</section>
+</section> -->
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -54,7 +54,8 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	
+</section>	
+
 <!-- Three -->
 <section id="three">
 	<div class="inner">
