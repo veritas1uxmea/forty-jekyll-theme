@@ -16,7 +16,7 @@ github_username:  veritas1uxmea
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-# tiles-count: 4
+tiles-count: 4
 no_contact_form: true
 
 # social settings
