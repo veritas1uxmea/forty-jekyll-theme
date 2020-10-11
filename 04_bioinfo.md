@@ -32,8 +32,8 @@ nav-menu: true
 				</header>
 				<p>A quick look of acquiring and processing Tag-based RNA seq data: Tag-based RNA seq is cost-effective approach specifically designed to measure abundances of polyadenylated transcripts yielding highly reliable data for differential gene expression analysis in well annotated genomes. Here I provide step-by-step instruction and bash script to process tag-based RNA seq data. </p>
 				<ul class="actions">
-					<li><a href="https://github.com/veritas1uxmea/tagseq_primer_labmeeting" class="button">Github</a>
-					<a href="https://docs.google.com/presentation/d/13_lDt8nFBPRnDraOwHgMlGglk29mqXOuYTILQvhqVzg/edit?usp=sharing" class="button">Presentation</a></li>
+					<li><a href="https://github.com/veritas1uxmea/tagseq_primer_labmeeting" class="button icon fa-github">Github</a>
+					<a href="https://docs.google.com/presentation/d/13_lDt8nFBPRnDraOwHgMlGglk29mqXOuYTILQvhqVzg/edit?usp=sharing" class="button icon fa-presentation">Presentation</a></li>
 				</ul>
 			</div>
 		</div>
@@ -49,7 +49,7 @@ nav-menu: true
 				</header>
 				<p>Dipping toes in mixed effects modelling in R: I presented in Champagne-Curley lab R seminar on January 2020, introducing linear mixed effects model</p>
 				<ul class="actions">
-					<li><a href="https://github.com/veritas1uxmea/Rseminar_LMM" class="button">Learn more</a></li>
+					<li><a href="https://github.com/veritas1uxmea/Rseminar_LMM" class="button icon fa-github">Github</a></li>
 				</ul>
 			</div>
 		</div>
