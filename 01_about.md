@@ -46,7 +46,7 @@ And my journey will continue. <p/>
 		Selected honors/awards: Samsung Scholarship ($250,000), Dean’s Fellow, Neuroscience Fellow </p>
 		<h4>Teachers College, Columbia University</h4>
 		<p>MS in Neuroscience and Education, July 2015</p>
-		<h4><a href="https://en.wikipedia.org/wiki/Seoul_National_University">Seoul National University</a></h4>
+		<h4>Seoul National University</h4>
 		<p>BS in Biology Education, minor in Psychology, August 2013</p>
 	</div>
 	<div class="6u$ 12u$(small)">
