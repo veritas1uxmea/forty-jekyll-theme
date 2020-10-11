@@ -26,7 +26,6 @@ Life is funny, my advisors made a move to the University of Texas at Austin duri
 And here I am, I enjoy every single second of my life in Austin.<br />
  </p>
 I like cleaning --- up messy data, <br />
-I like cleaning --- up messy data, <br />
 I like drawing --- with my cleaned-up data in R and Python <br />
 I like digging --- the truth buried in the data <br />
  <br />

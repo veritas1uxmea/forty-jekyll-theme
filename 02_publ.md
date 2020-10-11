@@ -8,7 +8,7 @@ nav-menu: true
 
 <span class="image fit"><img src="{% link assets/images/gene_network.png %}" alt="" /></span>
 
-<p><a href="https://scholar.google.com/citations?hl=en&user=vveG5zwAAAAJ" class="button special fit">To my Google Scholar page</a></p>
+<p><a href="https://scholar.google.com/citations?hl=en&user=vveG5zwAAAAJ" class="button special fit">To Won's Google Scholar page</a></p>
 <!-- Main -->
 <div id="main" class="alt">
 
