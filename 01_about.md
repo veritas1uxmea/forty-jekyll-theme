@@ -39,11 +39,24 @@ And my journey will continue. <p/>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Education</h3>
-		<p>will it work </p>
+		<h4>Columbia University</h4>
+		<p>PhD in Psychology, May 2020 <br />
+		Visiting scholar at UT Austin (2017 – 2020)<br />
+		Dissertation: Behavioral, physiological, and neurobiological plasticity of mice living in social hierarchies<br />
+		Selected honors/awards: Samsung Scholarship ($250,000), Dean’s Fellow, Neuroscience Fellow </p>
+		<h4>Teachers College, Columbia University</h4>
+		<p>MS in Neuroscience and Education, July 2015</p>
+		<h4><a href="https://en.wikipedia.org/wiki/Seoul_National_University">Seoul National University</h4>
+		<p>BS in Biology Education, minor in Psychology, August 2013</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Work experience</h3>
-		<p>will it workkkk</p>
+		<h4>Postdoctoral Researcher</h4>
+		<p>Champagne & Curley Social Neurobiology Lab, The University of Texas at Austin, Austin, TX</p>
+		<h4>Graduate Research Fellow</h4>
+		<p>Champagne & Curley Social Neurobiology Lab, Columbia University & University of Texas at Austin</p>
+		<h4>High school Biology Teacher </h4>
+		<p>Mae-tan High School, Suwon, South Korea</p>
 	</div>
 </div>
 
