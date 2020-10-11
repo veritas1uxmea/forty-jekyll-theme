@@ -19,7 +19,7 @@ image: "assets/images/won-2.jpg"
 
 <!-- Content -->
 <h2 id="content">Introduction</h2>
-<p>I was born and raised in South Korea, spend most of my time there in Suwon and Seoul. <br />
+<p>I was born and raised in South Korea, spent most of my time there in Suwon and Seoul. <br />
  My naive self set my foot in US - straight in Manhattan (yeap, no easing in whatsoever)- by starting my Master's program in Teachers College, Columbia University. Survival was not easy, but I got to make it to PhD program in the Psychology department at Columbia University. <br />
 Life is funny, my advisors made a move to the University of Texas at Austin during my thrid year of PhD, and I jumped on that train without knowing what was waiting for me in Austin, Texas.<br />
   <br />

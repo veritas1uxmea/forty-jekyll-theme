@@ -1,5 +1,5 @@
 ---
-title: Biology and numbers
+title: Biology and Numbers
 layout: landing
 description: 'Stat and bioinformatic projects'
 image: assets/images/pic07.jpg
