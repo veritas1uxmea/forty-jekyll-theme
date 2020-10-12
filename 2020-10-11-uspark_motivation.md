@@ -16,10 +16,6 @@ p {
 </style>
 </head>
 <body>
-
-<!-- Main -->
-<div id="main" class="alt">
-
 <!-- One -->
 <section id="one">
 	<div class="inner">
@@ -34,6 +30,5 @@ p {
     <p><a href="https://public-nps.opendata.arcgis.com/">https://public-nps.opendata.arcgis.com/ </a> <br />
       <br />
     I'll come back with some fun plots soon, I am excited to get on this project.<br />
+      <br />
     <a href="03_uspark.html" class="button big">Stay tuned!</a>
-
-
