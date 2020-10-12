@@ -32,6 +32,7 @@ p {
     This graph is well-made, conveying information on multiple trails at at once straightforward, from hikers' perspective. This was my motivation - I would like to have fun making and sharing more graphs like this. Therefore I built this website/blog. Thankfully, free open data on US National park is already available! </p>
     <h4>US National Park Data is available from: </h4>
     <p><a href="https://public-nps.opendata.arcgis.com/">https://public-nps.opendata.arcgis.com/ </a> <br />
+      <br />
     I'll come back with some fun plots soon, I am excited to get on this project.<br />
     <a href="03_uspark.html" class="button big">Stay tuned!</a>
 
