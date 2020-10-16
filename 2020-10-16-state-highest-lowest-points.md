@@ -4,7 +4,6 @@ title: 'Which state has the highest elevation in US?'
 landing-title: 'Highest and lowest elevation of each state'
 nav-menu: false
 description: null
-image: "assets/images/state_elevation.jpg"
 author: "Won Lee"
 show_tile: false
 ---
@@ -26,4 +25,5 @@ p {
     <a href="https://plotly.com/~elainewonlee/1/?share_key=vzfIPRtcG2o2oraXTAHepr" target="_blank" title="state_elevation" style="display: block; text-align: center;"><img src="https://plotly.com/~elainewonlee/1.png?share_key=vzfIPRtcG2o2oraXTAHepr" alt="state_elevation" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
     <script data-plotly="elainewonlee:1" sharekey-plotly="vzfIPRtcG2o2oraXTAHepr" src="https://plotly.com/embed.js" async></script>
     </div>
+    <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~elainewonlee/1.embed"></iframe>
     <a href="03_uspark.html" class="button big">Stay tuned!</a>
