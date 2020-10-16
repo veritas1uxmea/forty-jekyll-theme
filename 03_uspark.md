@@ -20,7 +20,7 @@ nav-menu: true
 </section> -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="2020-10-16-state-highest-lowest-points.html"  class="image">
 			<img src="{% link assets/images/state_elevation.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -40,8 +40,8 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/bigbend-1.jpg %}" alt="" data-position="center center" />
+		<a href="2020-10-11-uspark_motivation.html"  class="image">
+			<img src="{% link assets/images/bigbend-1.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
