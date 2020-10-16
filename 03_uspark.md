@@ -29,7 +29,7 @@ nav-menu: true
 	<section>
 		<section>
 		<a href="2020-10-11-uspark_motivation.html"  class="image">
-			<img src="{% link assets/images/bigbend-1.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/bigbend-1.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
