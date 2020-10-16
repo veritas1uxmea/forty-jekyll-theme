@@ -5,9 +5,12 @@ dfraw <- read_csv('C:/Users/PSYC-wl8856/Desktop/Github/veritas1uxmea.github.io/d
 colnames(dfraw)
 head(dfraw)
 
+`%notin%` <- Negate(`%in%`)
 df <- dfraw %>% 
   rename(State = `Statefederal district or territory`) %>% 
   filter(State != "United States") %>%  # get rid of redundant info
+  filter(!grepl('Islands',State)) %>% 
+  filter(State %notin% c('Guam','Puerto Rico','American Samoa')) %>% 
   mutate(`Highest point` = gsub('\\[.*' , '', `Highest point`), # delete citation label from wiki
          `Lowest point` = gsub('\\[.*' , '', `Lowest point`),
          `Highest elevation` = as.numeric(str_sub(gsub('\\m.*', '', `Highest elevation`),1,-2)),
@@ -38,20 +41,28 @@ df %>%
              color = 'dodgerblue', 
              size = 1.5)+
   labs(x = '',
-       y = 'Elevation (m)',
+       y = '',
+       title = 'The highest and lowest elevation by each state (m)',
        fill = 'Elevation \nspan (m)')+
   theme_minimal()+
   scale_fill_viridis(option = 'D')+
-  theme(axis.text.x = element_text(angle = 90,size = rel(1.5)),
-        axis.text.y = element_text(size = rel(1.2)),
-        axis.title.y = element_text(size = rel(1.4)),
-        panel.grid.major.x = element_blank()) -> p
+  theme(axis.text.x = element_text(angle = 90,size = rel(1.35)),
+        axis.text.y = element_text(size = rel(1.4)),
+        plot.title = element_text(size = rel(2)),
+        panel.grid.major.x = element_blank(),
+        legend.position = 'right')  -> p
 p
 
-ggplotly(p)
+ggplotly(p) -> ply
 
 
+htmlwidgets::saveWidget(as_widget(ply), "state_elevation.html")
 
+Sys.setenv('plotly_username'='elainewonlee')
+Sys.setenv('plotly_api_key'='b6quivwxSUJepS0lsIzv')
+
+
+api_create(ply, filename = 'state_elevation',fileopt='overwrite')
 # 
 # df %>% 
 #   ggplot(aes(x =State,
