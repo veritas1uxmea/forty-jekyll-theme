@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 
-landing-title: 'Motivation'
+title: 'Which state has the highest elevation in US?'
+landing-title: 'Highest and lowest elevation of each state'
 nav-menu: false
 description: null
 image: "assets/images/state_elevation.jpg"

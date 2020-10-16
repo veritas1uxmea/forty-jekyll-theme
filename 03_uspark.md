@@ -18,6 +18,24 @@ nav-menu: true
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 	</div>
 </section> -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/state_elevation.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>'Which state has the highest elevation in US?'</h3>
+				</header>
+				<p>I thought conquering the highest mountain of the state I live in could be cool enough achievement for celebrating my 30th birthday. Then I got curious how high and low each state is. So I looked it up, and plotted. </p>
+				<ul class="actions">
+					<li><a href="2020-10-16-state-highest-lowest-points.html" class="button">To the post</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
 
 <!-- Two -->
 <section id="two" class="spotlights">
