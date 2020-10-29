@@ -22,6 +22,22 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="https://docs.google.com/presentation/d/1x9zShUyXY6cZwRPCjzhpMvXKp-x6njx8K-Urx43fb7s/edit?usp=sharing" class="image">
+			<img src="{% link assets/images/my_rrho.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Rank-rank hypergeometric overlap</h3>
+				</header>
+				<p>Introduction to RRHO: I presented in Champagne-Curley lab RNAseq seminar on October 2020, introducing rank-rank hypergeometric overlap (RRHO) analysis </p>
+				<ul class="actions">
+					<li><a href="https://docs.google.com/presentation/d/1x9zShUyXY6cZwRPCjzhpMvXKp-x6njx8K-Urx43fb7s/edit?usp=sharing" class="button icon fa-object-group">Presentation</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="https://github.com/veritas1uxmea/tagseq_primer_labmeeting" class="image">
 			<img src="{% link assets/images/tag-2.jpg %}" alt="" data-position="center center" />
 		</a>
