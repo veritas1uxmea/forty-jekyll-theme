@@ -33,7 +33,7 @@ nav-menu: true
 				<p>This is the presentation use at Stats Snack UMass Boston Advanced Statistical Collaborative on Nov. 10th 2020. In this short stat seminar, I discuss why we should take a caution when we have ordinal predictor or outcome variables and present how to properly model ordinal variables using brms package in R. </p>
 				<ul class="actions">
 					<li><a href="https://github.com/veritas1uxmea/mo_brms_function_stats_snack" class="button icon fa-github">Github</a>
-					<a href="assets/html_files/stats_snack_presentation.html" class="button icon fa-object-group">Presentation</a></li>
+					<a href="assets/html_pages/stats_snack_presentation.html" class="button icon fa-object-group">Presentation</a></li>
 				</ul>
 			</div>
 		</div>
