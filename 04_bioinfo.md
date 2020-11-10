@@ -28,7 +28,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>I presented </h3>
+					<h3>Dealing with ordinal variables using brms in R</h3>
 				</header>
 				<p>This is the presentation use at Stats Snack UMass Boston Advanced Statistical Collaborative on Nov. 10th 2020. In this short stat seminar, I discuss why we should take a caution when we have ordinal predictor or outcome variables and present how to properly model ordinal variables using brms package in R. </p>
 				<ul class="actions">
