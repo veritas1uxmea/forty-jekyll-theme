@@ -30,7 +30,8 @@ nav-menu: true
 		</header>
 <p>
 <b>Lee W</b>, Milewski TM, Dwortz MF, Young RL, Gaudet AD, Fonken LK, Curley JP. (submitted). Distinct immune and transcription profiles in dominant versus subordinate males.
-<a href="https://github.com/veritas1uxmea/immune/blob/master/Lee_2021_preprint.pdf" class="button small">Article</a><a href="https://github.com/veritas1uxmea/immune" class="button small">Github</a>
+<a href="https://github.com/veritas1uxmea/immune/blob/master/Lee_2021_preprint.pdf" class="button small">Article</a> 
+<a href="https://github.com/veritas1uxmea/immune" class="button small">Github</a>
 <br />
 <br />
 Chase ID, Coehlo D, <b>Lee W</b>, Mueller K, Curley JP. (submitted). Networks never rest: An investigation of network evolution in three species of animals.     
