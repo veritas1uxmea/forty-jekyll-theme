@@ -29,11 +29,15 @@ nav-menu: true
 			<h1>Publication</h1>
 		</header>
 <p>
+<b>Lee W</b>, Milewski TM, Dwortz MF, Young RL, Gaudet AD, Fonken LK, Curley JP. (submitted). Distinct immune and transcription profiles in dominant versus subordinate males.
+<a href="https://github.com/veritas1uxmea/immune/blob/master/Lee_2021_preprint.pdf" class="button small">Article</a><a href="https://github.com/veritas1uxmea/immune" class="button small">Github</a>
+<br />
+<br />
 Chase ID, Coehlo D, <b>Lee W</b>, Mueller K, Curley JP. (submitted). Networks never rest: An investigation of network evolution in three species of animals.     
 <br />
   <br />
-<b>Lee W</b>, Dowd H, Nikain C, Dwortz M, Yang E, Curley JP. (submitted). Effect of relative social rank within a social hierarchy on neural activation in response to familiar or unfamiliar social signals. BioRxiv.     
-<a href="https://www.biorxiv.org/content/10.1101/2020.08.25.267278v1.abstract" class="button small">Article</a><br />
+<b>Lee W</b>, Dowd HN, Nikain C, Dwortz MF, Yang ED, Curley JP. Effect of relative social rank within a social hierarchy on neural activation in response to familiar or unfamiliar social signals. Scientific reports. 2021 Feb 3;11(1):1-3.
+<a href="https://www.nature.com/articles/s41598-021-82255-8" class="button small">Article</a><br />
 <br />
 Beery AK, Holmes MM, <b>Lee W</b>, Curley JP. (2020). Stress in groups: Lessons from non-traditional rodent species and housing models. Neuroscience & Biobehavioral Reviews.     
 <a href="https://www.sciencedirect.com/science/article/pii/S0149763419310905" class="button small">Article</a>
